@@ -1,0 +1,64 @@
+#body {
+background-color:#f0f1f0 ;
+}
+#titulo{
+	text-align: center; color: #FFFFFF;background-color: #393939;margin: 5px; border-radius: 5px; height: 50PX; font-size: 40px;
+}
+
+#mas{
+	text-align: center;color: #FFFFFF;font-family: Arial ; background-color: #393939; margin-bottom: 5px;border-radius: 5px; width: 80%; margin: auto; 
+}
+#navegacion{
+	background-color:  #818483; width: 80%; margin: auto ;text-align: center; border-radius: 5PX ;
+}
+
+#link{
+	color: #FFFFFF; font-family: Arial;
+ }
+
+#cuerpo {
+	background-color: #818483; width: ;margin-top: 15px; width: 90%; margin-left: auto; margin-right: auto ;padding: 20px; border-style: outset; margin-bottom: 20px ;
+	 border-radius: 10px; padding-bottom: 100px;
+}
+
+#subtitulo{
+	font-size: 30px; font-family: Arial; color: #ffffff;
+}
+
+#texto {
+	color: #ffffff; font-family: Arial; padding-right:50px; padding-left: 50px; border-radius: 10px; text-align: justify; font-size: 20px;
+}
+
+#img1{ 
+float:left ;width: 150px;height: auto; padding-right: 5px; border-radius: 5px; margin-bottom: 5px }
+
+#img2 {
+	float: right; width: 200px; height: auto; border-radius: 20px; margin-left: 5px;
+}
+
+#pie {
+	background-color:#393939 ; margin-top: 10px; border-radius: 5px;  text-align: center; width:30% ; height: auto; margin: auto; padding-top: 10px;
+
+}
+#ipie {
+	font-size: 20px; font-family: Arial; color: #ffffff ; 
+}
+
+#yo {width:150px; height: auto; margin: auto; padding: auto; display: block;}
+
+
+
+#aportes{
+	background-color:#393939 ; border-radius: 5px; border-collapse: 2px; font-size: 20px; font-family: arial; color: #ffffff; padding: 5px; margin-bottom: 20px;
+}
+#aportes, th, td {
+  border: 1px solid; padding: 5px;
+}
+#navegacion nav a{ 
+	text-decoration: ;
+
+}
+#navegacion nav li{  
+display: inline-block; margin-left: 10px; 
+
+}
